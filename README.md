@@ -30,7 +30,11 @@ sudo systemctl start v2raya.service
 
 打开软件，初次打开需要注册用户名密码：
 
+![Logo](/image/111.png)
+
 注册登陆后，会弹出对话框，选择`导入`，填入订阅地址，`确定`：
+
+![Logo](/image/222.png)
 
 此时在SUBSCRIPTION栏中会显示已添加的订阅，操作中的`修改`可以更新订阅地址，页面右上的`导入`可以添加新的订阅地址：
 

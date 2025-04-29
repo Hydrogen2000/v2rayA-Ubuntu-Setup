@@ -30,21 +30,30 @@ sudo systemctl start v2raya.service
 
 打开软件，初次打开需要注册用户名密码：
 
-<img src="/image/111.png" width="200">
+<img src="/image/111.png" width="333">
 
 注册登陆后，会弹出对话框，选择`导入`，填入订阅地址，`确定`：
 
-![Logo](/image/222.png)
+<img src="/image/222.png" width="333">
 
 此时在SUBSCRIPTION栏中会显示已添加的订阅，操作中的`修改`可以更新订阅地址，页面右上的`导入`可以添加新的订阅地址：
 
+<img src="/image/333.png" width="333">
+
 选中一个节点，页面左上的`PING`可以测试连接：
 
+<img src="/image/444.png" width="333">
+
 操作中选择`连接`，节点会显示为红色，再选择页面左上的`就绪`使其变为`启动``正在运行`，节点会显示为蓝色：
+
+<img src="/image/555.png" width="333">
 
 ### 3. 配置代理
 
 选择页面右上的`设置`，弹出窗口的左下`地址与端口`可以查看代理地址与端口：
+
+<img src="/image/555.png" width="333">
+<img src="/image/666.png" width="333">
 
 按照信息，在Ubuntu系统设置内将`网络``网络代理`设置为`手动`，填入HTTP、HTTPS、Socks地址与端口（v2rayA没有提共FTP代理）：
 

@@ -53,10 +53,10 @@ sudo systemctl start v2raya.service
 
 选择页面右上的`设置`，弹出窗口的左下`地址与端口`可以查看代理地址与端口：
 
-<img src="/image/777.png" width="333">
-<img src="/image/888.png" width="333">
+<img src="/image/777.png" width="800">
+<img src="/image/888.png" width="300">
 
-按照信息，在Ubuntu系统设置内将`网络``网络代理`设置为`手动`，填入HTTP、HTTPS、Socks地址与端口（v2rayA没有提共FTP代理）：
+按照信息，在Ubuntu系统设置内将`网络`->`网络代理`设置为`手动`，填入HTTP、HTTPS、Socks地址与端口（v2rayA没有提共FTP代理）：
 
 <img src="/image/999.png" width="500">
 

@@ -30,7 +30,7 @@ sudo systemctl start v2raya.service
 
 打开软件，初次打开需要注册用户名密码：
 
-![Logo](/image/111.png)
+<img src="/image/111.png" width="200">
 
 注册登陆后，会弹出对话框，选择`导入`，填入订阅地址，`确定`：
 

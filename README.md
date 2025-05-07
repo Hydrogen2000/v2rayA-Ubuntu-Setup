@@ -22,8 +22,16 @@ sudo apt install v2raya xray
 
 ### 1. 启动v2rayA
 
+单次启动：
+
 ```bash
 sudo systemctl start v2raya.service
+```
+
+设置开机自启动：
+
+```bash
+sudo systemctl enable v2raya.service
 ```
 
 ### 2. 配置v2rayA Web Panel软件订阅

@@ -59,7 +59,7 @@ sudo systemctl enable v2raya.service
 
 ### 3. 配置代理
 
-选择页面右上的`设置`，弹出窗口的左下`地址与端口`可以查看代理地址与端口：
+选择页面右上的`设置`，弹出窗口的左下`地址与端口`可以查看代理端口：
 
 <img src="/image/777.png" width="800">
 <img src="/image/888.png" width="300">
@@ -68,3 +68,4 @@ sudo systemctl enable v2raya.service
 
 <img src="/image/999.png" width="500">
 
+其中`127.0.0.1`代表默认的本地回环地址，表示该代理仅允许本机访问。
